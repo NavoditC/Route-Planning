@@ -1,6 +1,6 @@
 # Route Planning 
 
-This repo contains the code for Route Planning between the start and target locations.
+This repository contains the code for Route Planning between the start and target locations.
 
 <img src="map.png" width="600" height="450" />
 
